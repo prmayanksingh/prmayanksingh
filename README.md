@@ -49,12 +49,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prmayanksingh&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="182" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
