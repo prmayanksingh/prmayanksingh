@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"  />
-</div>
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="GitHub Banner" width="100%" />
 
 ###
 
@@ -8,7 +6,7 @@
 
 ###
 
-<h3 align="center">🚀 4th Year CSE Student | Web Development & DSA Enthusiast | Driven by Curiosity & Growth</h3>
+<h4 align="center">🚀 4th Year CSE Student | Web Development & DSA Enthusiast | Driven by Curiosity & Growth</h4>
 
 ###
 
