@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">🚀 4th Year CSE Student | Web Development & DSA Enthusiast | Driven by Curiosity & Growth</h4>
+<h3 align="center">🚀 4th Year CSE Student | Web Development & DSA Enthusiast | Driven by Curiosity & Growth</h3>
 
 ###
 
