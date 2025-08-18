@@ -7,7 +7,7 @@
 ###
 
 💻 Aspiring Full-Stack Developer | DSA Enthusiast <br>
-🎓 4th Year CSE Student | Passionate about coding & problem-solving <br>
+🎓 Passionate about coding & problem-solving <br>
 🚀 Exploring Data Structures & Algorithms (DSA) to enhance problem-solving skills <br>
 🔍 Constantly learning & experimenting with new technologies <br>
 <br>
