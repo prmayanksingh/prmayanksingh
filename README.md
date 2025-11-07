@@ -6,7 +6,7 @@
 
 ###
 
-💻 Aspiring Full-Stack Developer | DSA Enthusiast <br>
+💻 Full-Stack Developer | DSA Enthusiast <br>
 🎓 Passionate about coding & problem-solving <br>
 🚀 Exploring Data Structures & Algorithms (DSA) to enhance problem-solving skills <br>
 🔍 Constantly learning & experimenting with new technologies <br>
